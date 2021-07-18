@@ -1,0 +1,33 @@
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.title-container .title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.title-container .order-btn {
+  cursor: pointer;
+  color: #0027ca;
+  font-size: 12px;
+}
+
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  padding: 14px;
+}
+
+.item-container .remove-btn {
+  background-color: #e3393b;
+  border-color: #e3393b;
+  border-radius: 4px;
+  color: #fff;
+  padding: 4px;
+  cursor: pointer;
+}

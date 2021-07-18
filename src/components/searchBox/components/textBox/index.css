@@ -1,0 +1,31 @@
+.input-box {
+  margin-top: 8px;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  padding: 14px 14px 40px 80px;
+  width: 404px;
+  font-size: 14px;
+}
+
+.circle-position {
+  position: absolute;
+  background-color: #e0e0e0;
+  margin-top: 18px;
+  margin-left: 14px;
+}
+
+.circle-grey {
+  background-color: #e0e0e0 !important;
+}
+
+.circle-blue {
+  background-color: #22b0ce !important;
+}
+
+.text-box-email {
+  position: absolute;
+  margin-top: 45px;
+  margin-left: 81px;
+  font-size: 11px;
+  color: #909090;
+}
